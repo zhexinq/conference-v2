@@ -92,7 +92,7 @@ The installation of the app is easy:
 
 1. Clone the project [repository](https://github.com/zhexinq/conference-v2) (e.g. in comand line type "git clone https://github.com/zhexinq/conference-v2.git") into your local directory: ![](https://s24.postimg.org/fewlmngyd/checkout_project.jpg)
 
-2. Open the project using Android by choosing open existing project and find the location where you downloaded the repository: ![](https://s30.postimg.org/ak5il1wpd/open_project.jpg) ![](https://s30.postimg.org/ligs38lap/open_project_2.jpg)
+2. Open the project using Android Studio by choosing open existing project and find the location where you downloaded the repository: ![](https://s30.postimg.org/ak5il1wpd/open_project.jpg) ![](https://s30.postimg.org/ligs38lap/open_project_2.jpg)
 
 3. Compile the code and run it either on an emulator or a physical device (using a USB cable to connect with the computer). After successul compilation the app will be installed on the device. You can read more [here](https://developer.android.com/training/basics/firstapp/running-app.html) about running Android project on device: ![](https://s29.postimg.org/jtbeu0mjb/compile_and_run.jpg)
 
